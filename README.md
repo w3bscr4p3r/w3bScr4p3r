@@ -1,4 +1,4 @@
-Olá, meu nome é Daniel 👨🏻‍💻
+Olá, bem vindo! 👨🏻‍💻
 Sou técnico em informática, entusiasta pela área de Tecnologia e futuro estudante de Cyber Defense. 
 Trabalho com Suporte Técnico desde dezembro de 2012 e atualmente estudo sistemas Linux, Python e SQL.
 <!---
