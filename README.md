@@ -20,9 +20,11 @@ I decided to continue in the programming area.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=w3bScr4pp3r)
 
+<!--
 👨🏻‍💻 Contatos
  
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](http://api.whatsapp.com/send?phone=5527981344224&text=Olá+Daniel,+vim+pelo+Github) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@daniel-m-alves) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-moura-343680221/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielmoura.tech@gmail.com)
+-->
 
 💻 My workspace
 
