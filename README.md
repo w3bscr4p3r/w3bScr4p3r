@@ -20,6 +20,8 @@ I decided to continue in the programming area.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=w3bScr4pp3r)
 
+![Snake animation](https://github.com/w3bScr4pp3r/w3bScr4pp3r/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 👨🏻‍💻 Contatos
  
