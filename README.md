@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student of programming and computer technician. I have been working with Technical Support since December 2012 and currently 
-I decided to continue in the programming area.
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=w3bScr4pp3r)
 
 
