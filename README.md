@@ -43,7 +43,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-DanielAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moura-alves)](https://www.linkedin.com/in/daniel-moura-alves)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moura-alves)](https://www.linkedin.com/in/daniel-moura-alves)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoura.tech@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoura.tech@gmail.com)](mailto:danielmoura.tech@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/w3bScr4pp3r?label=follow&style=social)](https://github.com/w3bScr4pp3r/)
 
