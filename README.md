@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=w3bScr4pp3r&color=006bed)
+![](https://komarev.com/ghpvc/?username=w3bScr4p3r&color=006bed)
 
 ## Sobre mim
 
@@ -37,13 +37,13 @@
 
 <br/>
 
-<a href="https://github.com/w3bScr4pp3r" title="Perfil do Daniel Alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3bScr4pp3r&theme=react&show_icons=true" />
+<a href="https://github.com/w3bScr4p3r" title="Perfil do Daniel Alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3bScr4p3r&theme=react&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moura-alves)](https://www.linkedin.com/in/daniel-moura-alves)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoura.tech@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoura.tech@gmail.com)](mailto:danielmoura.tech@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/w3bScr4pp3r?label=follow&style=social)](https://github.com/w3bScr4pp3r/)
+[![GitHub](https://img.shields.io/github/followers/w3bScr4p3r?label=follow&style=social)](https://github.com/w3bScr4p3r/)
 
