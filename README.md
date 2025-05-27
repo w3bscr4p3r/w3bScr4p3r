@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software;
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio de Sá;
-- 💼 Trabalhando como Consultor e Analista de TI na Easy Solutions - Consultoria e Suporte em TI;
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá - Vila Velha/ES;
+- 💼 Trabalhando como Cyber Security Analyst e Python Developer na Wolf Cyber Security (@wolf.cybersecurity);
 - 🌱 Aprendendo mais sobre ESG e Cyber Security.
 
 ## Minhas Skills
