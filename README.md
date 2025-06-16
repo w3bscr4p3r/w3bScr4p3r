@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software;
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá - Vila Velha/ES;
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá;
 - 🌱 Aprendendo mais sobre ESG e Cyber Security.
 
 ## Minhas Skills
