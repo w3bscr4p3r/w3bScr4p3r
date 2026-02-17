@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software;
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá;
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de Cibersegurança e RPA;
+- 🎓 MBA em Gestão de Cibersegurança e Tecnologo em Análise e Desenvolvimento de Sistemas pela Estácio de Sá;
 - 🌱 Aprendendo mais sobre ESG e Cyber Security.
 
 ## Minhas Skills
