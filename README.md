@@ -36,13 +36,9 @@
 
 <br/>
 
-<a href="https://github.com/w3bscr4p3r" title="Perfil do Daniel Alves">
-  <img height="180em" src="https://avatars.githubusercontent.com/u/92269045?s=400&u=b7509c2b337d7bd42d3324e3f987ebfb1a74c347&v=4" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moura-alves)](https://www.linkedin.com/in/daniel-moura-alves)
 [![Gmail Badge](https://img.shields.io/badge/-danielmoura.tech@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmoura.tech@gmail.com)](mailto:danielmoura.tech@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/w3bScr4p3r?label=follow&style=social)](https://github.com/w3bScr4p3r/)
+[![GitHub](https://img.shields.io/github/followers/w3bScr4p3r?label=follow&style=social)](https://github.com/w3bscr4p3r/)
 
