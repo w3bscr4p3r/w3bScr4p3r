@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de Cibersegurança e RPA;
-- 🎓 MBA em Gestão de Cibersegurança e Tecnologo em Análise e Desenvolvimento de Sistemas pela Estácio de Sá;
+- 🎓 Professor de Informática com MBA em Gestão de Cibersegurança e TADS pela Estácio de Sá;
 - 🌱 Aprendendo mais sobre ESG e Cyber Security.
 
 ## Minhas Skills
