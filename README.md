@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de Cibersegurança e RPA;
 - 🎓 Professor de Informática com MBA em Gestão de Cibersegurança e TADS pela Estácio de Sá;
-- 🌱 Aprendendo mais sobre ESG e Cyber Security.
+- 🌱 Aprendendo mais sobre ESG, Cyber Security e IA.
 
 ## Minhas Skills
 
