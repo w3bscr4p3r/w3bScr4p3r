@@ -75,8 +75,6 @@ Também desenvolvo projetos voltados à criação de **MVPs, plataformas SaaS e 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 ![Nginx](https://img.shields.io/badge/Nginx-333333?style=flat&logo=nginx)
-![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform)
 
 ---
 
@@ -93,10 +91,10 @@ Também desenvolvo projetos voltados à criação de **MVPs, plataformas SaaS e 
 ### Frameworks & Governança
 
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-333333?style=flat)
-![NIST CSF](https://img.shields.io/badge/NIST%20CSF%202.0-333333?style=flat)
-![COBIT](https://img.shields.io/badge/COBIT%202019-333333?style=flat)
+![NIST CSF 2.0](https://img.shields.io/badge/NIST%20CSF%202.0-333333?style=flat)
+![COBIT 2019](https://img.shields.io/badge/COBIT%202019-333333?style=flat)
 ![LGPD](https://img.shields.io/badge/LGPD-333333?style=flat)
-![ITIL](https://img.shields.io/badge/ITIL%204-333333?style=flat)
+![ITIL 4](https://img.shields.io/badge/ITIL%204-333333?style=flat)
 
 ---
 
