@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=w3bScr4p3r&color=006bed)
 
-# 👋 Olá, eu sou Daniel Alves
+# 👋 Olá, meu nome é Daniel Alves!
 
-### Cybersecurity • GRC • DevSecOps • AI Agents • Automation • SaaS
+### Cybersecurity • GRC • DevSecOps • SaaS • Automation 
 
-Profissional de **Tecnologia da Informação e Cibersegurança**, com mais de uma década de experiência em infraestrutura, suporte, segurança da informação, automação e desenvolvimento de soluções.
+Sou profissional de **Tecnologia da Informação e Cibersegurança**, com mais de uma década de experiência em infraestrutura e suporte técnico, além de conhecimentos em segurança da informação, desenvolvimento de soluções e automação.
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e possuo **MBA em Gestão da Cibersegurança Empresarial**, combinando experiência operacional com uma visão crescente de **Governança, Riscos, Compliance e Segurança Cibernética aplicada ao negócio**.
+Possuo graduação em **Análise e Desenvolvimento de Sistemas** e **MBA em Gestão da Cibersegurança Empresarial**, combinando experiência operacional com uma visão crescente de **Governança, Riscos, Compliance e Segurança Cibernética aplicada ao negócio**.
 
 Atualmente concentro meus estudos e projetos em:
 
